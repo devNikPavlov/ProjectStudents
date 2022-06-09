@@ -1,6 +1,12 @@
 public class SaveStudentOrder
 {
     public static void main(String[] args) {
-        System.out.println("SaveStudentOrder запущен");
+        saveStudentOrder();
+    }
+
+    static void saveStudentOrder() {
+        System.out.println("saveStudentOrder");
+        System.out.println("saveStudentOrder");
+        System.out.println("saveStudentOrder");
     }
 }
